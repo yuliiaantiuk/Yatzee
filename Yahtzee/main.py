@@ -1,4 +1,5 @@
 import random
+import pygame
 from dice import *
 from choice import *
 from util import *

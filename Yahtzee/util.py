@@ -12,8 +12,8 @@ font = pygame.font.Font('freesansbold.ttf', 18)
 background = (128, 128, 128)
 white = (255, 255, 255)
 black = (0, 0, 0)
-total_rounds = 2
-total_played = 13
+total_rounds = 13
+total_played = 2
 
 def draw_static_stuff(player, rounds):
     roll_txt = font.render('Roll the Dice!', True, white)
